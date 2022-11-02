@@ -8,5 +8,7 @@
 </p>
 
 ## Versions
+- 1.0.1
+  - Register as client side
 - 1.0.0
   - Disable the usage of simple stats in your pack
